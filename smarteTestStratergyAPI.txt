@@ -1,0 +1,17 @@
+Purpose of the API:
+
+It accepts get request as individuals email  address or companys domain and based on the input provides repose with details about the individual or company profile
+
+
+Test Stratergy:
+It would be tested using some client application like Postman where we would test with differnt data combination as input and expect reponse based on the requirements.
+
+
+Data Combinations:
+Email Address
+Company's domain
+Combined Request
+Request with  only Mandatory field (Email)
+Request with Mandatory + different combination of optional fields
+Invalid requests - Different combination 
+
