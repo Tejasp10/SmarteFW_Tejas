@@ -1,4 +1,4 @@
-Purpose of the API:
+Purpose of the API is as follows:
 
 It accepts get request as individuals email  address or companys domain and based on the input provides repose with details about the individual or company profile
 
